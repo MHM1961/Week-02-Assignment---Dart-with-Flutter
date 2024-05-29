@@ -9,7 +9,7 @@ double num_2 = 18.6;
 String fullName = "Micholax Mussa";
 
 //declaration of variable numbers thats storing an ordered collectin of interger number
-List<int> numbers = [1, 3, 5, 7, 9, 11];
+List<int> numbers = [1, 3, 5, 7, 9, 11, 13];
 
 //declaration of variable scores thats storing an collectin of key-pair value
 Map<String, int> scores = {"Jane Sums": 98, "Thomson Juda":89, "Farida Nyuki":52, "Hokororo Jo": 34 };
